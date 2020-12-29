@@ -1,6 +1,8 @@
 # password-creator
 
+https://github.com/Noreldin-S/password-generator
 
+https://noreldin-s.github.io/password-generator/
 
 HTML
 1- I created Html Sheet, and I added Class Wraper for the whole page.
