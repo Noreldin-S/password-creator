@@ -17,3 +17,6 @@ CSS
 2- Made the box in class card into grey. and centered it in the middle.
 3- Made a box inside the big box where the password created will be shown.
 4- Added a generate button below the box in the center.
+
+
+<img src="screenshot\screenshot.png" width="700" height="500">
